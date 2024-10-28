@@ -1,6 +1,6 @@
-# ToDo List Mobile
+# PACHECO_HAIRCUT_APP
 
-![APP_ESTACIO_PACHECO_HAIRCUT](./src//assets/img/PACHECO'S.png)
+![APP_ESTACIO_PACHECO_HAIRCUT](./src/assets/img/PACHECO’S.png)
 
 Aplicação de controle de agendas no estilo **to-do list**, que contém as seguintes funcionalidades:
 
